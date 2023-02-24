@@ -20,4 +20,4 @@ const routes: Routes = [
 @NgModule({
   imports: [RouterModule.forChild(routes)]
 })
-export class ReactiveRoutingRoutingModule { }
+export class ReactiveRoutingModule { }
